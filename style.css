@@ -16,7 +16,7 @@ html {
 body { 
 	font: 100% Source Sans Pro, sans-serif;
 	color: white;
-	background: #02070c url(../img/Deep_Space.jpg) no-repeat top right; 
+	background: #02070c url(img/Deep_Space.jpg) no-repeat top right; 
 	background-size: 1366px;
 	background-attachment: fixed;
 	margin: 0; 
@@ -37,7 +37,7 @@ header{
 	margin: 0;
 	padding: 0;
 	height: 140px;
-	background-image: url(../img/logo.svg);
+	background-image: url(img/logo.svg);
 	background-repeat: no-repeat;
 	background-size: 220px;
 	background-position: -8px, 0px;
@@ -180,7 +180,7 @@ footer a{
 	padding-top: 17px;
 	padding-bottom: 17px;
 	text-align: center;
-	background-image: url(../img/title_background.png);
+	background-image: url(img/title_background.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 203px 55px;
