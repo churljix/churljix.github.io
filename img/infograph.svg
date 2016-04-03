@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 805.6" style="enable-background:new 0 0 1024 805.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E5D3D3;}
+	.st1{fill:none;}
+	.st2{fill:#722222;}
+	.st3{font-family:'HelveticaRoundedLTStdBd';}
+	.st4{font-size:72px;}
+	.st5{fill:#4F1313;}
+	.st6{font-family:'HelveticaRoundedLTStdBlk';}
+	.st7{font-size:112px;}
+	.st8{fill:#9C2525;}
+	.st9{font-size:48px;}
+	.st10{fill:#A9654A;}
+	.st11{font-size:36px;}
+	.st12{fill:#E93737;}
+	.st13{fill:#AE2929;}
+	.st14{fill:#751C1C;}
+	.st15{fill:#DDC0BD;}
+	.st16{font-family:'BritannicBold';}
+	.st17{font-size:24px;}
+	.st18{font-size:30px;}
+	.st19{font-size:33px;}
+	.st20{fill:#D7A8A8;}
+	.st21{fill:#5C3728;}
+	.st22{font-family:'Corbel';}
+	.st23{fill:#280A0A;}
+	.st24{fill:#3B0E0E;}
+	.st25{fill:#B9A1A1;}
+	.st26{font-size:52px;}
+	.st27{font-size:41px;}
+	.st28{fill:#5C284D;}
+	.st29{font-family:'Corbel-Bold';}
+	.st30{font-size:53px;}
+</style>
+<g id="Background">
+	<rect id="XMLID_151_" class="st0" width="1024" height="806"/>
+</g>
+<g id="Title">
+	<rect id="XMLID_2_" x="38.1" y="40.6" class="st1" width="520.5" height="225"/>
+	<text id="XMLID_3_" transform="matrix(1 0 0 1 38.1143 93.3823)"><tspan x="0" y="0" class="st2 st3 st4">WHAT IS</tspan><tspan x="0" y="88" class="st5 st6 st7">CSS?</tspan></text>
+</g>
+<g id="Graph">
+	<text id="XMLID_4_" transform="matrix(1 0 0 1 414.0002 78.0001)" class="st8 st6 st9">Stylesheet languages</text>
+	<text id="XMLID_35_" transform="matrix(1 0 0 1 396.0002 198.5014)" class="st10 st6 st11">Standard</text>
+	<text id="XMLID_36_" transform="matrix(1 0 0 1 743.9875 198.5012)" class="st10 st6 st11">Non-standard</text>
+	<g id="XMLID_42_">
+		<g id="XMLID_76_">
+			<path class="st12" d="M362.5,239.5c0-4.8,0-9.7,0-14.5c0-1.9-3-1.9-3,0c0,4.8,0,9.7,0,14.5C359.5,241.4,362.5,241.4,362.5,239.5
+				L362.5,239.5z"/>
+		</g>
+	</g>
+	<g id="XMLID_49_">
+		<g id="XMLID_83_">
+			<path class="st12" d="M360,226c57.2,0,114.3,0,171.5,0c1.9,0,1.9-3,0-3c-57.2,0-114.3,0-171.5,0C358.1,223,358.1,226,360,226
+				L360,226z"/>
+		</g>
+	</g>
+	<g id="XMLID_58_">
+		<g id="XMLID_90_">
+			<path class="st12" d="M530.5,225.5c0,2.7,0,5.3,0,8c0,1.9,3,1.9,3,0c0-2.7,0-5.3,0-8C533.5,223.6,530.5,223.6,530.5,225.5
+				L530.5,225.5z"/>
+		</g>
+	</g>
+	<g id="XMLID_63_">
+		<g id="XMLID_97_">
+			<path class="st12" d="M452,207c0,39,0,78,0,117c0,1.9,3,1.9,3,0c0-39,0-78,0-117C455,205.1,452,205.1,452,207L452,207z"/>
+		</g>
+	</g>
+	<g id="XMLID_64_">
+		<g id="XMLID_104_">
+			<path class="st12" d="M696.5,221.5c0-2.7,0-5.3,0-8c0-1.9-3-1.9-3,0c0,2.7,0,5.3,0,8C693.5,223.4,696.5,223.4,696.5,221.5
+				L696.5,221.5z"/>
+		</g>
+	</g>
+	<g id="XMLID_65_">
+		<g id="XMLID_111_">
+			<path class="st12" d="M695,214.5c66.5,0,133,0,199.4,0c18.9,0,37.7,0,56.6,0c1.9,0,1.9-3,0-3c-66.5,0-133,0-199.4,0
+				c-18.9,0-37.7,0-56.6,0C693.1,211.5,693.1,214.5,695,214.5L695,214.5z"/>
+		</g>
+	</g>
+	<g id="XMLID_70_">
+		<g id="XMLID_118_">
+			<path class="st12" d="M949.5,215c0,9.1,0,18.2,0,27.3c0,1.9,3,1.9,3,0c0-1.6,0-3.2,0-4.8c0-1.9-3-1.9-3,0c0,1.6,0,3.2,0,4.8
+				c0,1.9,3,1.9,3,0c0-9.1,0-18.2,0-27.3C952.5,213.1,949.5,213.1,949.5,215L949.5,215z"/>
+		</g>
+	</g>
+	<g id="XMLID_72_">
+		<g id="XMLID_110_">
+			<path id="XMLID_88_" class="st12" d="M839.5,204.5c0,2.2,0,4.3,0,6.5c0,1.9,3,1.9,3,0c0-2.2,0-4.3,0-6.5
+				C842.5,202.6,839.5,202.6,839.5,204.5L839.5,204.5z"/>
+		</g>
+	</g>
+	<g id="XMLID_74_">
+		<g id="XMLID_125_">
+			<path id="XMLID_94_" class="st12" d="M814,214c0,15.5,0,31,0,46.5c0,1.9,3,1.9,3,0c0-15.5,0-31,0-46.5
+				C817,212.1,814,212.1,814,214L814,214z"/>
+		</g>
+	</g>
+	<g id="XMLID_80_">
+		<g id="XMLID_136_">
+			<path id="XMLID_109_" class="st12" d="M746.5,244c49.3,0,98.7,0,148,0c1.9,0,1.9-3,0-3c-49.3,0-98.7,0-148,0
+				C744.6,241,744.6,244,746.5,244L746.5,244z"/>
+		</g>
+	</g>
+	<g id="XMLID_81_">
+		<g id="XMLID_139_">
+			<path id="XMLID_101_" class="st12" d="M893,243c0,31.5,0,63,0,94.5c0,1.9,3,1.9,3,0c0-31.5,0-63,0-94.5
+				C896,241.1,893,241.1,893,243L893,243z"/>
+		</g>
+	</g>
+	<g id="XMLID_5_">
+		<g id="XMLID_21_">
+			<path id="XMLID_14_" class="st12" d="M393.6,69.1c0,8.5,0,17,0,25.5c0,1.9,3,1.9,3,0c0-8.5,0-17,0-25.5
+				C396.6,67.2,393.6,67.2,393.6,69.1L393.6,69.1z"/>
+		</g>
+	</g>
+	<g id="XMLID_6_">
+		<g id="XMLID_26_">
+			<path id="XMLID_10_" class="st12" d="M396,96.1c77.2,0,154.4,0,231.6,0c76.9,0,153.8,0,230.6,0c43.6,0,87.2,0,130.8,0
+				c1.9,0,1.9-3,0-3c-77.2,0-154.4,0-231.6,0c-76.9,0-153.8,0-230.6,0c-43.6,0-87.2,0-130.8,0C394.1,93.1,394.1,96.1,396,96.1
+				L396,96.1z"/>
+		</g>
+	</g>
+	<g id="XMLID_7_">
+		<g id="XMLID_31_">
+			<path id="XMLID_13_" class="st12" d="M990.6,94.6c0-9,0-18,0-27c0-1.9-3-1.9-3,0c0,9,0,18,0,27C987.6,96.5,990.6,96.5,990.6,94.6
+				L990.6,94.6z"/>
+		</g>
+	</g>
+	<g id="XMLID_8_">
+		<g id="XMLID_43_">
+			<path id="XMLID_30_" class="st12" d="M687.5,97c0,10,0,20,0,30c0,1.9,3,1.9,3,0c0-10,0-20,0-30C690.5,95.1,687.5,95.1,687.5,97
+				L687.5,97z"/>
+		</g>
+	</g>
+	<g id="XMLID_9_">
+		<g id="XMLID_45_">
+			<path id="XMLID_17_" class="st12" d="M483,128.5c111.5,0,223,0,334.4,0c31.2,0,62.4,0,93.6,0c1.9,0,1.9-3,0-3
+				c-111.5,0-223,0-334.4,0c-31.2,0-62.4,0-93.6,0C481.1,125.5,481.1,128.5,483,128.5L483,128.5z"/>
+		</g>
+	</g>
+	<g id="XMLID_11_">
+		<g id="XMLID_52_">
+			<path id="XMLID_18_" class="st12" d="M909.5,127c0,11.1,0,22.3,0,33.4c0,1.9,3,1.9,3,0c0-3.1,0-6.3,0-9.4c0-1.9-3-1.9-3,0
+				c0,3.1,0,6.3,0,9.4c0,1.9,3,1.9,3,0c0-11.1,0-22.3,0-33.4C912.5,125.1,909.5,125.1,909.5,127L909.5,127z"/>
+		</g>
+	</g>
+	<g id="XMLID_12_">
+		<g id="XMLID_59_">
+			<path id="XMLID_19_" class="st12" d="M481.5,127c0,11.3,0,22.7,0,34c0,1.9,3,1.9,3,0c0-11.3,0-22.7,0-34
+				C484.5,125.1,481.5,125.1,481.5,127L481.5,127z"/>
+		</g>
+	</g>
+	<g id="XMLID_87_">
+		<g id="XMLID_146_">
+			<path id="XMLID_108_" class="st12" d="M745,242.5c0,28.5,0,57,0,85.5c0,1.9,3,1.9,3,0c0-28.5,0-57,0-85.5
+				C748,240.6,745,240.6,745,242.5L745,242.5z"/>
+		</g>
+	</g>
+</g>
+<g id="Balls">
+	<circle id="XMLID_39_" class="st13" cx="365.1" cy="284.6" r="40"/>
+	<circle id="XMLID_40_" class="st5" cx="458.6" cy="398.1" r="63.5"/>
+	<circle id="XMLID_41_" class="st13" cx="532.1" cy="277.6" r="40"/>
+	<circle id="XMLID_56_" class="st14" cx="951.1" cy="284.6" r="40"/>
+	<circle id="XMLID_66_" class="st14" cx="897.1" cy="383.6" r="40"/>
+	<circle id="XMLID_67_" class="st14" cx="697.1" cy="265.6" r="40"/>
+	<circle id="XMLID_68_" class="st14" cx="738.1" cy="374.6" r="40"/>
+	<circle id="XMLID_69_" class="st14" cx="817.1" cy="305.6" r="40"/>
+	<text id="XMLID_122_" transform="matrix(1 0 0 1 335.099 296.25)" class="st15 st16 st11">XSL</text>
+	<text id="XMLID_123_" transform="matrix(1 0 0 1 498.6024 286.5964)" class="st15 st16 st17">DSSSL</text>
+	<text id="XMLID_129_" transform="matrix(1 0 0 1 396.0003 423.5967)" class="st15 st16 st4">CSS</text>
+	<text id="XMLID_132_" transform="matrix(1 0 0 1 666.0937 276.5966)" class="st15 st16 st18">JSSS</text>
+	<text id="XMLID_133_" transform="matrix(1 0 0 1 703.0918 386)" class="st15 st16 st19">LESS</text>
+	<text id="XMLID_134_" transform="matrix(1 0 0 1 784.5878 317.5964)" class="st15 st16 st19">FOSI</text>
+	<text id="XMLID_135_" transform="matrix(1 0 0 1 863.0838 395.0964)" class="st15 st16 st19">SMIL</text>
+	<text id="XMLID_143_" transform="matrix(1 0 0 1 918.081 296.25)" class="st15 st16 st19">Sass</text>
+</g>
+<g id="Definition">
+	<rect id="XMLID_145_" x="28.6" y="198.5" class="st20" width="254" height="284.6"/>
+	<text id="XMLID_1_" transform="matrix(1 0 0 1 32.1144 286.5963)"><tspan x="0" y="0" class="st21 st22 st7">C</tspan><tspan x="66" y="-19" class="st23 st22 st9">ascading</tspan><tspan x="0" y="88" class="st21 st22 st7">S</tspan><tspan x="61.8" y="69" class="st23 st22 st9">tyle</tspan><tspan x="0" y="176" class="st21 st22 st7">S</tspan><tspan x="61.8" y="157" class="st24 st22 st9">heets</tspan></text>
+</g>
+<g id="timeline">
+	<g id="XMLID_166_">
+		<g id="XMLID_178_">
+			<path id="XMLID_167_" class="st25" d="M71.1,708.1c113.8,0,227.6,0,341.4,0s227.6,0,341.4,0c63.9,0,127.8,0,191.7,0
+				c5.8,0,5.8-9,0-9c-113.8,0-227.6,0-341.4,0s-227.6,0-341.4,0c-63.9,0-127.8,0-191.7,0C65.3,699.1,65.3,708.1,71.1,708.1
+				L71.1,708.1z"/>
+		</g>
+	</g>
+	<g id="XMLID_168_">
+		<g id="XMLID_185_">
+			<path id="XMLID_169_" class="st25" d="M60.6,684.1c0,12,0,24,0,36c0,5.8,9,5.8,9,0c0-12,0-24,0-36
+				C69.6,678.3,60.6,678.3,60.6,684.1L60.6,684.1z"/>
+		</g>
+	</g>
+	<g id="XMLID_177_">
+		<g id="XMLID_218_">
+			<path id="XMLID_183_" class="st25" d="M270.6,685.1c0,12,0,24,0,36c0,5.8,9,5.8,9,0c0-12,0-24,0-36
+				C279.6,679.3,270.6,679.3,270.6,685.1L270.6,685.1z"/>
+		</g>
+	</g>
+	<g id="XMLID_172_">
+		<g id="XMLID_212_">
+			<path id="XMLID_174_" class="st25" d="M507.6,685.1c0,12,0,24,0,36c0,5.8,9,5.8,9,0c0-12,0-24,0-36
+				C516.6,679.3,507.6,679.3,507.6,685.1L507.6,685.1z"/>
+		</g>
+	</g>
+	<g id="XMLID_175_">
+		<g id="XMLID_206_">
+			<path id="XMLID_171_" class="st25" d="M940.6,685.1c0,12,0,24,0,36c0,5.8,9,5.8,9,0c0-12,0-24,0-36
+				C949.6,679.3,940.6,679.3,940.6,685.1L940.6,685.1z"/>
+		</g>
+	</g>
+	<g id="XMLID_182_">
+		<g id="XMLID_202_">
+			<path id="XMLID_170_" class="st25" d="M732.6,685.1c0,12,0,24,0,36c0,5.8,9,5.8,9,0c0-12,0-24,0-36
+				C741.6,679.3,732.6,679.3,732.6,685.1L732.6,685.1z"/>
+		</g>
+	</g>
+	<circle id="XMLID_191_" class="st5" cx="225.7" cy="625.2" r="51.6"/>
+	<ellipse id="XMLID_195_" class="st5" cx="374.3" cy="603.8" rx="76.2" ry="75.8"/>
+	<ellipse id="XMLID_189_" class="st5" cx="107.4" cy="628.3" rx="42.3" ry="42.8"/>
+	<text id="XMLID_200_" transform="matrix(1 0 0 1 70.1125 642.0782)" class="st20 st22 st11">CSS1</text>
+	<text id="XMLID_201_" transform="matrix(1 0 0 1 325.0972 622.2321)" class="st20 st22 st26">CSS3</text>
+	<text id="XMLID_210_" transform="matrix(1 0 0 1 183.6306 639.0783)" class="st20 st22 st27">CSS2</text>
+	<g id="XMLID_211_">
+		<g id="XMLID_243_">
+			<path id="XMLID_223_" class="st5" d="M465.6,612.1c122.5,0,245,0,367.4,0c34.6,0,69.2,0,103.8,0c5.8,0,5.8-9,0-9
+				c-24.6,0-49.2,0-73.8,0c-5.8,0-5.8,9,0,9c24.6,0,49.2,0,73.8,0c5.8,0,5.8-9,0-9c-122.5,0-245,0-367.4,0c-34.6,0-69.2,0-103.8,0
+				C459.8,603.1,459.8,612.1,465.6,612.1L465.6,612.1z"/>
+		</g>
+	</g>
+	<g id="XMLID_216_">
+		<g id="XMLID_241_">
+			<path id="XMLID_226_" class="st5" d="M938.3,603.4c-10-10-20-20-30-30c-4.1-4.1-10.5,2.3-6.4,6.4c10,10,20,20,30,30
+				C936,613.9,942.4,607.5,938.3,603.4L938.3,603.4z"/>
+		</g>
+	</g>
+	<g id="XMLID_217_">
+		<g id="XMLID_242_">
+			<path id="XMLID_228_" class="st5" d="M932.9,604.4c-11,12-22,24-33,36c-3.9,4.3,2.4,10.6,6.4,6.4c11-12,22-24,33-36
+				C943.2,606.5,936.8,600.1,932.9,604.4L932.9,604.4z"/>
+		</g>
+	</g>
+	<text id="XMLID_184_" transform="matrix(1 0 0 1 28.6153 765.0713)" class="st28 st22 st11">1995</text>
+	<text id="XMLID_190_" transform="matrix(1 0 0 1 237.6315 765.0713)" class="st28 st22 st11">2000</text>
+	<text id="XMLID_192_" transform="matrix(1 0 0 1 469.6198 765.0713)" class="st28 st22 st11">2005</text>
+	<text id="XMLID_193_" transform="matrix(1 0 0 1 698.0971 765.0713)" class="st28 st22 st11">2010</text>
+	<text id="XMLID_194_" transform="matrix(1 0 0 1 903.0981 765.0713)" class="st28 st22 st11">2015</text>
+	<text id="XMLID_222_" transform="matrix(1 0 0 1 578.0869 591.58)" class="st5 st29 st30">On Going</text>
+</g>
+</svg>
