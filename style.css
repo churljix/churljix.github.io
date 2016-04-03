@@ -1,0 +1,199 @@
+/* css Zen Garden default style v1.02 */
+/* css released under Creative Commons License - http://creativecommons.org/licenses/by-nc-sa/1.0/  */
+
+/* This file based on 'Tranquille' by Dave Shea */
+/* You may use this file as a foundation for any new work, but you may find it easier to start from scratch. */
+/* Not all elements are defined in this file, so you'll most likely want to refer to the xhtml as well. */
+
+/* Your images should be linked as if the CSS file sits in the same folder as the images. ie. no paths. */
+
+
+/* basic elements */
+html {
+	margin: 0;
+	padding: 0;
+	}
+body { 
+	font: 100% Source Sans Pro, sans-serif;
+	color: white;
+	background: #02070c url(../img/Deep_Space.jpg) no-repeat top right; 
+	background-size: 1366px;
+	background-attachment: fixed;
+	margin: 0; 
+	padding: 0;
+	}
+
+.page-wrapper { 
+	margin: 50px auto;
+	padding: 20px;
+	width: 800px;
+	border: none;
+	text-align: left;
+	background-color: rgba(2,7,12,0.88);
+	border-radius: 10px;
+	}
+
+header{
+	margin: 0;
+	padding: 0;
+	height: 140px;
+	background-image: url(../img/logo.svg);
+	background-repeat: no-repeat;
+	background-size: 220px;
+	background-position: -8px, 0px;
+	padding-left: 210px;
+}
+
+h1{
+	font: 100% "Source Code Pro", sans-serif;	
+	font-size: 70px;
+	color: #bef1f5;
+	padding-top: 28px;
+	margin: 0;
+	font-weight: bold;
+	border-bottom: 3px solid #4c96a8;
+	padding-bottom: 25px;
+	text-align: justify;
+}
+
+h2{
+	font: 100% "Source Code Pro", sans-serif;	
+	font-size: 30px;
+	margin: 0;
+	padding-top: 25px;
+	padding-left: 20px;
+	color: #3dbda9;	
+}
+
+.intro .summary{
+	font: 100% "Source Sans Pro", sans-serif;
+	color: #bef1f5;
+	font-size: 16px;
+	padding-top: 70px;
+	padding-left: 230px;
+}
+
+.intro .summary a{
+	text-decoration: none;
+	color: #3dbda9;
+}
+
+.intro h3{
+	font: 100% "Source Code Pro", sans-serif;	
+	font-size: 24px;
+	margin: 0;
+	color: #3dbda9;	
+}
+
+.intro .preamble{
+	font: 100% "Source Sans Pro", sans-serif;
+	color: #bef1f5;
+	font-size: 16px;
+	padding-top: 30px;
+	padding-left: 230px;
+}
+
+.intro .preamble a{
+	text-decoration: none;
+	color: #3dbda9;
+}
+
+.main h3{
+	font: 100% "Source Code Pro", sans-serif;	
+	font-size: 24px;
+	margin: 0;
+	color: #3dbda9;	
+}
+
+.main .explanation{
+	font: 100% "Source Sans Pro", sans-serif;
+	color: #bef1f5;
+	font-size: 16px;
+	padding-top: 30px;
+	padding-left: 230px;
+}
+
+.main .participation{
+	font: 100% "Source Sans Pro", sans-serif;
+	color: #bef1f5;
+	font-size: 16px;
+	padding-top: 30px;
+	padding-left: 230px;
+}
+
+.main .benefits{
+	font: 100% "Source Sans Pro", sans-serif;
+	color: #bef1f5;
+	font-size: 16px;
+	padding-top: 30px;
+	padding-left: 230px;
+}
+
+.main .requirements{
+	font: 100% "Source Sans Pro", sans-serif;
+	color: #bef1f5;
+	font-size: 16px;
+	padding-top: 30px;
+	padding-left: 230px;	
+}
+
+.main .requirements p:last-child {
+	margin-top: 50px;
+	padding-top: 10px;
+    border-top: 2px solid #4c96a8;
+    font-size: 14px;
+    color: #4c96a8;
+}
+
+.main .explanation a,
+.main .participation a,
+.main .benefits a,
+.main .requirements a,
+.main .requirements p:last-child a {
+	text-decoration: none;
+	color: #3dbda9;
+}
+
+footer{
+	font-size: 14px;
+	color: #3dbda9;
+	text-align: center;
+	padding-left: 230px;
+	word-spacing: 10px;
+}
+
+footer a{
+	font-size: 14px;
+	color: #3dbda9;
+	text-decoration: none;
+}
+
+.sidebar{
+	position: absolute;
+	left:auto; 
+	right:auto; 
+	top: 200px;
+	width: 200px;
+}
+
+.sidebar h3 {
+	padding-top: 17px;
+	padding-bottom: 17px;
+	text-align: center;
+	background-image: url(../img/title_background.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 203px 55px;
+}
+
+li a {
+	font-size: 12px;
+	padding-bottom: 5px;
+	color: #fff;
+	text-decoration: none;	
+}
+
+.design-name:after {
+    content:"\a";
+    white-space:pre;
+}
