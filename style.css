@@ -19,7 +19,7 @@ body {
 	color: white;
 	background: #02070c url(img/Deep_Space.jpg) no-repeat; 
 	background-position: center;
-	background-size: 1366px;
+	background-size: 100% 100%;
 	background-attachment: fixed;
 	margin: 0; 
 	padding: 0;
