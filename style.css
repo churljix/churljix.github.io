@@ -17,7 +17,8 @@ html {
 body { 
 	font: 100% Source Sans Pro, sans-serif;
 	color: white;
-	background: #02070c url(img/Deep_Space.jpg) no-repeat top right; 
+	background: #02070c url(img/Deep_Space.jpg) no-repeat; 
+	background-position: center;
 	background-size: 1366px;
 	background-attachment: fixed;
 	margin: 0; 
